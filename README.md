@@ -1,5 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/503e2b5b-2492-47e9-817c-067afd5d5877" />
-
 # Hi, I'm Khaled Ali 👋
 
 AI Engineer focused on building practical AI solutions, from model development and evaluation to backend APIs and intelligent applications.
