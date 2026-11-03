@@ -1,9 +1,10 @@
-# Hi, I'm Khaled Ali 👋
+Hi, I'm Khaled Ali 👋
+
+AI Engineer | Machine Learning | Computer Vision | NLP
 
 AI Engineer focused on building practical AI solutions, from model development and evaluation to backend APIs and intelligent applications.
 
 I enjoy combining Machine Learning with software engineering to turn ideas into usable products.
-
 ---
 
 ## 🛠️ Tech Stack
