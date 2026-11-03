@@ -63,13 +63,6 @@ An NLP project for analyzing Egyptian Arabic product reviews and classifying the
 
 ---
 
-## 📊 GitHub Activity
-
-[![GitHub Profile](https://github-readme-stats.vercel.app/api?username=Khaled413&show_icons=true&hide_border=true)](https://github.com/Khaled413)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled413&layout=compact&hide_border=true)](https://github.com/Khaled413)
-
----
 
 ## 📫 Contact & Connect
 
