@@ -1,104 +1,120 @@
+<!-- Profile README for github.com/Khaled413 -->
+
+<div align="center">
+
 # Khaled Ali El-Eraky
 
-### AI Engineer | Machine Learning | Computer Vision | NLP
+### AI Engineer · Machine Learning · Computer Vision · NLP
 
-I'm an AI Engineer and Computer Science graduate passionate about building practical AI solutions and intelligent applications.
+Building practical AI systems that connect intelligent models with real-world applications.
 
-My interests include Machine Learning, Computer Vision, Natural Language Processing, and developing end-to-end AI systems that combine intelligent models with modern software engineering.
+[LinkedIn](https://www.linkedin.com/in/khaled-ali-eleraky/) · [GitHub](https://github.com/Khaled413) · [Email](mailto:ka1739102@gmail.com)
+
+</div>
 
 ---
 
+## About Me
+
+I'm an AI Engineer and Computer Science graduate interested in building practical AI solutions and end-to-end intelligent applications.
+
+My work focuses on **Machine Learning, Computer Vision, and Natural Language Processing**, with an emphasis on turning models into usable products through APIs, backend services, and modern web technologies.
+
 ## Technical Skills
 
-**Programming Languages**
-- Python, JavaScript, TypeScript, SQL
+<div align="center">
 
-**AI & Machine Learning**
-- PyTorch, TensorFlow, Scikit-learn
-- OpenCV, MediaPipe
-- Pandas, NumPy, XGBoost
+**Languages**
 
-**Backend & Development**
-- FastAPI, Flask, Node.js, Express
-- React, REST APIs
+<img src="https://skillicons.dev/icons?i=python,ts,js,sql" alt="Python, TypeScript, JavaScript, SQL" />
 
-**Databases & Tools**
-- PostgreSQL, Supabase, SQL
-- Git, GitHub, Docker
+**AI, Machine Learning & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" alt="PyTorch, TensorFlow, OpenCV" />
+
+**Backend, Frontend & Databases**
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express,react,postgres,supabase,sqlite" alt="FastAPI, Flask, Node.js, Express, React, PostgreSQL, Supabase, SQLite" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" alt="Git, GitHub, Docker, Postman" />
+
+</div>
+
+Additional libraries: **Scikit-learn, XGBoost, MediaPipe, Pandas, NumPy, SQLAlchemy, PuLP**.
 
 ---
 
 ## Featured Projects
 
-### 1. Predictive Maintenance Platform
+### 01 · [Predictive Maintenance Platform](https://github.com/Khaled413/predictive-maintenance-platform)
 
-An Industrial AI platform for machine health monitoring, failure prediction, failure classification, and preventive maintenance recommendations using simulated industrial data.
+An Industrial AI platform for machine health monitoring, failure-risk prediction, failure classification, and preventive maintenance recommendations. The current project uses **simulated industrial data**.
 
-**Technologies:** Python, Machine Learning, FastAPI, React, TypeScript, Supabase, PostgreSQL.
+**Stack:** Python · Machine Learning · FastAPI · React · TypeScript · Supabase · PostgreSQL
 
-[View Repository](https://github.com/Khaled413/predictive-maintenance-platform)
-
-### 2. ATOS Fit – AI-Powered Fitness Ecosystem
+### 02 · [ATOS Fit — AI-Powered Fitness Ecosystem](https://github.com/Khaled413/ATOS-fit)
 
 An AI-powered fitness platform featuring human pose estimation, exercise form analysis, repetition counting, and real-time corrective feedback.
 
-**Technologies:** Computer Vision, TensorFlow.js, MediaPipe, Python.
+**Stack:** Computer Vision · TensorFlow.js · MediaPipe · Python
 
-[View Repository](https://github.com/Khaled413/ATOS-fit)
+### 03 · [Smart Hospital Resource Optimization System](https://github.com/Khaled413/Smart-Hospital-Resource-Optimization-System-V1)
 
-### 3. Smart Hospital Resource Optimization System
+A hospital resource allocation and scheduling system designed to improve patient scheduling and resource utilization through mathematical optimization.
 
-A hospital resource allocation and scheduling system designed to optimize patient scheduling and resource utilization using mathematical optimization algorithms.
+**Stack:** Python · Flask · SQLAlchemy · PuLP · Linear Programming · Greedy Algorithms
 
-**Technologies:** Python, Flask, SQLAlchemy, PuLP, Linear Programming, Greedy Algorithms.
+### 04 · [Egyptian Arabic Sentiment Analysis](https://github.com/Khaled413/Amazon-Product-Reviews-Egyptian-Sentiment-Analysis)
 
-[View Repository](https://github.com/Khaled413/Smart-Hospital-Resource-Optimization-System-V1)
+An NLP application that analyzes Egyptian Arabic product reviews and classifies sentiment using traditional machine learning techniques.
 
-### 4. Egyptian Arabic Sentiment Analysis
-
-An NLP application for analyzing Egyptian Arabic product reviews and classifying sentiment using traditional machine learning techniques.
-
-**Technologies:** Python, NLP, Scikit-learn, TF-IDF, SVM, Flask.
-
-[View Repository](https://github.com/Khaled413/Amazon-Product-Reviews-Egyptian-Sentiment-Analysis)
+**Stack:** Python · NLP · Scikit-learn · TF-IDF · SVM · Flask
 
 ---
 
-## Additional Projects
+## More Projects
 
-- [Bioinformatics Algorithms Visualizer](https://github.com/Khaled413/bioinformatics-algorithms) – Sequence alignment and string matching algorithms with interactive visualization.
-- [Heart Disease Prediction](https://github.com/Khaled413/Heart-Disease-Predictive-Project) – Machine learning classification for cardiovascular risk prediction.
-- [Elliptic Curves](https://github.com/Khaled413/Elliptic-Curves) – Interactive implementation and visualization of elliptic curve cryptography.
-- [Classical Ciphers](https://github.com/Khaled413/Classical-Ciphers) – Educational implementation of classical encryption algorithms.
+| Project | Description |
+|---|---|
+| [Bioinformatics Algorithms Visualizer](https://github.com/Khaled413/bioinformatics-algorithms) | Sequence alignment and string-matching algorithms with interactive visualization. |
+| [Heart Disease Prediction](https://github.com/Khaled413/Heart-Disease-Predictive-Project) | Machine learning classification for cardiovascular risk prediction. |
+| [Elliptic Curves](https://github.com/Khaled413/Elliptic-Curves) | Interactive implementation and visualization of elliptic curve cryptography. |
+| [Classical Ciphers](https://github.com/Khaled413/Classical-Ciphers) | Educational implementations of classical encryption algorithms. |
 
 ---
 
 ## Achievements & Certifications
 
-- **2nd Place** – Huawei Developer Competition 2025, Northern Africa.
-- **Global Top 30 Finalist** – WCHL25 Hackathon.
-- **Government-Certified Data Scientist** – Digital Egypt Pioneers Initiative (DEPI).
-- **Machine Learning Specialization** – Stanford University.
+- **2nd Place** — Huawei Developer Competition 2025, Northern Africa.
+- **Global Top 30 Finalist** — WCHL25 Hackathon.
+- **Government-Certified Data Scientist** — Digital Egypt Pioneers Initiative (DEPI).
+- **Machine Learning Specialization** — Stanford University.
 
 ---
 
-## GitHub Statistics
+## GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khaled413&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled413&layout=compact&hide_border=true&langs_count=8" height="165" alt="Most Used Languages" />
-</p>
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Khaled413&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled413&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Most used languages" />
 
-## Connect With Me
-
-- **LinkedIn:** [linkedin.com/in/khaled-ali-eleraky](https://www.linkedin.com/in/khaled-ali-eleraky/)
-- **GitHub:** [github.com/Khaled413](https://github.com/Khaled413)
-- **Email:** [ka1739102@gmail.com](mailto:ka1739102@gmail.com)
+</div>
 
 ---
 
-<p align="center">
-  <i>Building intelligent solutions through AI and software engineering.</i>
-</p>
+## Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-ali-eleraky/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaled413)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ka1739102@gmail.com)
+
+<br />
+
+*Building intelligent solutions through AI and software engineering.*
+
+</div>
